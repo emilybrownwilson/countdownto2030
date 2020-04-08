@@ -2,4 +2,4 @@ Task list
 
 - Obtain the data
 - Summarize key variables
-- Wrinte short report
+- Write short report
